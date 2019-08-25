@@ -1,3 +1,4 @@
+//This is the First Project;
 body{
 background: url('nature_2.jpg') no-repeat;
 background-size: 100%;
@@ -63,6 +64,7 @@ span{
 }
 .button_container{
 	top: -20px;
+	left:5px;
 	position: relative;
 }
 .slider_button{
